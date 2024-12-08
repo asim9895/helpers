@@ -1,0 +1,3 @@
+.env
+nodejs/prisma_express_setup/node_modules    
+react/tailwind_react_shadcn_setup/node_modules
